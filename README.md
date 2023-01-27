@@ -6,3 +6,5 @@ Credit card fraud detection is the process of identifying purchase attempts that
 Thieves can hack companies with whom you have had transactions or firms that perform credit card processing activities. They will then engage in data breaches. 
 ### Phishing:
 Phishing includes the persuading of consumers to provide their sensitive data by tricking them by the scammers.
+
+<img align = "center" height = "350" width = "600" src ="https://user-images.githubusercontent.com/84726790/215112228-b8377ba5-2317-4707-b09c-d4565313760c.jpg">
